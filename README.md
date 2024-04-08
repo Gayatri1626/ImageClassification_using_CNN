@@ -36,7 +36,7 @@ This project aims to perform image classification on the CIFAR-10 dataset using 
 
 By following these steps and incorporating additional enhancements, such as experimenting with different model architectures, optimizers, and evaluation metrics, the CIFAR-10 image classification model can be developed, trained, and evaluated effectively.
 
-### Future Work
+### Customization
 
 There are several potential avenues for future work and improvement in the CIFAR-10 image classification project:
 
