@@ -36,10 +36,6 @@ This project aims to perform image classification on the CIFAR-10 dataset using 
 
 By following these steps and incorporating additional enhancements, such as experimenting with different model architectures, optimizers, and evaluation metrics, the CIFAR-10 image classification model can be developed, trained, and evaluated effectively.
 
-
-## Contact
-
-For any inquiries or feedback, please contact (gayatrighorpade409@gmail.com)
 ### Future Work
 
 There are several potential avenues for future work and improvement in the CIFAR-10 image classification project:
@@ -53,6 +49,10 @@ There are several potential avenues for future work and improvement in the CIFAR
 - **Transfer Learning**: Explore transfer learning approaches by fine-tuning pre-trained models on larger datasets like ImageNet or CIFAR-100 and adapting them to the CIFAR-10 dataset. Investigate the effectiveness of different transfer learning strategies, such as feature extraction, fine-tuning, or progressive unfreezing, and evaluate their impact on model performance and convergence speed. Additionally, explore domain adaptation techniques to improve model performance when the source and target domains differ significantly.
 
 - **Ensemble Methods**: Investigate ensemble learning techniques such as model averaging, bagging, or boosting to combine predictions from multiple independently trained models. Experiment with diverse model architectures, initialization strategies, and training data subsets to create an ensemble that captures complementary patterns and improves overall prediction accuracy. Additionally, explore techniques for model selection, such as cross-validation or Bayesian optimization, to identify the optimal ensemble configuration.
+
+  ## Contact
+
+For any inquiries or feedback, please contact (gayatrighorpade409@gmail.com)
 
 - **Advanced Preprocessing Techniques**: Explore advanced preprocessing techniques to enhance the quality and discriminative power of input images. Experiment with color space transformations, histogram equalization, or local contrast enhancement to improve feature representation and classification performance. Additionally, investigate techniques for noise reduction, artifact removal, or image denoising to mitigate the impact of low-quality or noisy input data.
 
