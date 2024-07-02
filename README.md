@@ -6,7 +6,7 @@ This project aims to perform image classification on the CIFAR-10 dataset using 
 
 ## Requirements
 
-- Python 3.x
+- Python 3.12
 - OpenCV (cv)
 - TensorFlow
 - NumPy
